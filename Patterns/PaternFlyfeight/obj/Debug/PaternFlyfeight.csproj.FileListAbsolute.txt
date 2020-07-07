@@ -1,0 +1,6 @@
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternFlyfeight\bin\Debug\PaternFlyfeight.exe.config
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternFlyfeight\bin\Debug\PaternFlyfeight.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternFlyfeight\bin\Debug\PaternFlyfeight.pdb
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternFlyfeight\obj\Debug\PaternFlyfeight.csprojResolveAssemblyReference.cache
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternFlyfeight\obj\Debug\PaternFlyfeight.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternFlyfeight\obj\Debug\PaternFlyfeight.pdb

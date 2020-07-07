@@ -1,0 +1,7 @@
+D:\JulyInterview\Patterns\IEnumerableTrain1\bin\Debug\IEnumerableTrain1.exe.config
+D:\JulyInterview\Patterns\IEnumerableTrain1\bin\Debug\IEnumerableTrain1.exe
+D:\JulyInterview\Patterns\IEnumerableTrain1\bin\Debug\IEnumerableTrain1.pdb
+D:\JulyInterview\Patterns\IEnumerableTrain1\obj\Debug\IEnumerableTrain1.csprojAssemblyReference.cache
+D:\JulyInterview\Patterns\IEnumerableTrain1\obj\Debug\IEnumerableTrain1.csproj.CoreCompileInputs.cache
+D:\JulyInterview\Patterns\IEnumerableTrain1\obj\Debug\IEnumerableTrain1.exe
+D:\JulyInterview\Patterns\IEnumerableTrain1\obj\Debug\IEnumerableTrain1.pdb

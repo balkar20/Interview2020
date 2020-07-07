@@ -1,0 +1,6 @@
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternDecorator\bin\Debug\PaternDecorator.exe.config
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternDecorator\bin\Debug\PaternDecorator.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternDecorator\bin\Debug\PaternDecorator.pdb
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternDecorator\obj\Debug\PaternDecorator.csprojResolveAssemblyReference.cache
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternDecorator\obj\Debug\PaternDecorator.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternDecorator\obj\Debug\PaternDecorator.pdb

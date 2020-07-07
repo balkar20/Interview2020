@@ -1,0 +1,11 @@
+D:\JulyInterview\Patterns\Arena\bin\Debug\netcoreapp2.1\Arena.deps.json
+D:\JulyInterview\Patterns\Arena\bin\Debug\netcoreapp2.1\Arena.runtimeconfig.json
+D:\JulyInterview\Patterns\Arena\bin\Debug\netcoreapp2.1\Arena.runtimeconfig.dev.json
+D:\JulyInterview\Patterns\Arena\bin\Debug\netcoreapp2.1\Arena.dll
+D:\JulyInterview\Patterns\Arena\bin\Debug\netcoreapp2.1\Arena.pdb
+D:\JulyInterview\Patterns\Arena\obj\Debug\netcoreapp2.1\Arena.csprojAssemblyReference.cache
+D:\JulyInterview\Patterns\Arena\obj\Debug\netcoreapp2.1\Arena.csproj.CoreCompileInputs.cache
+D:\JulyInterview\Patterns\Arena\obj\Debug\netcoreapp2.1\Arena.AssemblyInfoInputs.cache
+D:\JulyInterview\Patterns\Arena\obj\Debug\netcoreapp2.1\Arena.AssemblyInfo.cs
+D:\JulyInterview\Patterns\Arena\obj\Debug\netcoreapp2.1\Arena.dll
+D:\JulyInterview\Patterns\Arena\obj\Debug\netcoreapp2.1\Arena.pdb

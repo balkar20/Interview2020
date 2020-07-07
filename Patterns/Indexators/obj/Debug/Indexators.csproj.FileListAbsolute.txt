@@ -1,0 +1,6 @@
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\Indexators\bin\Debug\Indexators.exe.config
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\Indexators\bin\Debug\Indexators.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\Indexators\bin\Debug\Indexators.pdb
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\Indexators\obj\Debug\Indexators.csprojResolveAssemblyReference.cache
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\Indexators\obj\Debug\Indexators.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\Indexators\obj\Debug\Indexators.pdb

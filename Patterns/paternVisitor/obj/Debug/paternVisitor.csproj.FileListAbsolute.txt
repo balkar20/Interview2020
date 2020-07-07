@@ -1,0 +1,6 @@
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\paternVisitor\bin\Debug\paternVisitor.exe.config
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\paternVisitor\bin\Debug\paternVisitor.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\paternVisitor\bin\Debug\paternVisitor.pdb
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\paternVisitor\obj\Debug\paternVisitor.csprojResolveAssemblyReference.cache
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\paternVisitor\obj\Debug\paternVisitor.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\paternVisitor\obj\Debug\paternVisitor.pdb

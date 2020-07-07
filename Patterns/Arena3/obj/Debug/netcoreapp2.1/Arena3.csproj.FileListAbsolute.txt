@@ -1,0 +1,10 @@
+D:\JulyInterview\Patterns\Arena3\bin\Debug\netcoreapp2.1\Arena3.deps.json
+D:\JulyInterview\Patterns\Arena3\bin\Debug\netcoreapp2.1\Arena3.runtimeconfig.json
+D:\JulyInterview\Patterns\Arena3\bin\Debug\netcoreapp2.1\Arena3.runtimeconfig.dev.json
+D:\JulyInterview\Patterns\Arena3\bin\Debug\netcoreapp2.1\Arena3.dll
+D:\JulyInterview\Patterns\Arena3\bin\Debug\netcoreapp2.1\Arena3.pdb
+D:\JulyInterview\Patterns\Arena3\obj\Debug\netcoreapp2.1\Arena3.csproj.CoreCompileInputs.cache
+D:\JulyInterview\Patterns\Arena3\obj\Debug\netcoreapp2.1\Arena3.AssemblyInfoInputs.cache
+D:\JulyInterview\Patterns\Arena3\obj\Debug\netcoreapp2.1\Arena3.AssemblyInfo.cs
+D:\JulyInterview\Patterns\Arena3\obj\Debug\netcoreapp2.1\Arena3.dll
+D:\JulyInterview\Patterns\Arena3\obj\Debug\netcoreapp2.1\Arena3.pdb

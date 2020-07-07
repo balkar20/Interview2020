@@ -1,0 +1,6 @@
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternInterpretator\bin\Debug\PaternInterpretator.exe.config
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternInterpretator\bin\Debug\PaternInterpretator.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternInterpretator\bin\Debug\PaternInterpretator.pdb
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternInterpretator\obj\Debug\PaternInterpretator.csprojResolveAssemblyReference.cache
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternInterpretator\obj\Debug\PaternInterpretator.exe
+C:\Users\vbalkarov\Documents\Visual Studio 2017\Projects\RepeatAndTrain\PaternInterpretator\obj\Debug\PaternInterpretator.pdb
