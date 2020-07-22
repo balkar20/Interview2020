@@ -1,0 +1,12 @@
+D:\Interview2020\TreadRepeat\Barrier\bin\Debug\netcoreapp3.1\Barrier.exe
+D:\Interview2020\TreadRepeat\Barrier\bin\Debug\netcoreapp3.1\Barrier.deps.json
+D:\Interview2020\TreadRepeat\Barrier\bin\Debug\netcoreapp3.1\Barrier.runtimeconfig.json
+D:\Interview2020\TreadRepeat\Barrier\bin\Debug\netcoreapp3.1\Barrier.runtimeconfig.dev.json
+D:\Interview2020\TreadRepeat\Barrier\bin\Debug\netcoreapp3.1\Barrier.dll
+D:\Interview2020\TreadRepeat\Barrier\bin\Debug\netcoreapp3.1\Barrier.pdb
+D:\Interview2020\TreadRepeat\Barrier\obj\Debug\netcoreapp3.1\Barrier.csproj.CoreCompileInputs.cache
+D:\Interview2020\TreadRepeat\Barrier\obj\Debug\netcoreapp3.1\Barrier.AssemblyInfoInputs.cache
+D:\Interview2020\TreadRepeat\Barrier\obj\Debug\netcoreapp3.1\Barrier.AssemblyInfo.cs
+D:\Interview2020\TreadRepeat\Barrier\obj\Debug\netcoreapp3.1\Barrier.dll
+D:\Interview2020\TreadRepeat\Barrier\obj\Debug\netcoreapp3.1\Barrier.pdb
+D:\Interview2020\TreadRepeat\Barrier\obj\Debug\netcoreapp3.1\Barrier.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\Interview2020\TreadRepeat\TreadRepeat\bin\Debug\netcoreapp3.1\TreadRepeat.exe
+D:\Interview2020\TreadRepeat\TreadRepeat\bin\Debug\netcoreapp3.1\TreadRepeat.deps.json
+D:\Interview2020\TreadRepeat\TreadRepeat\bin\Debug\netcoreapp3.1\TreadRepeat.runtimeconfig.json
+D:\Interview2020\TreadRepeat\TreadRepeat\bin\Debug\netcoreapp3.1\TreadRepeat.runtimeconfig.dev.json
+D:\Interview2020\TreadRepeat\TreadRepeat\bin\Debug\netcoreapp3.1\TreadRepeat.dll
+D:\Interview2020\TreadRepeat\TreadRepeat\bin\Debug\netcoreapp3.1\TreadRepeat.pdb
+D:\Interview2020\TreadRepeat\TreadRepeat\obj\Debug\netcoreapp3.1\TreadRepeat.csprojAssemblyReference.cache
+D:\Interview2020\TreadRepeat\TreadRepeat\obj\Debug\netcoreapp3.1\TreadRepeat.csproj.CoreCompileInputs.cache
+D:\Interview2020\TreadRepeat\TreadRepeat\obj\Debug\netcoreapp3.1\TreadRepeat.AssemblyInfoInputs.cache
+D:\Interview2020\TreadRepeat\TreadRepeat\obj\Debug\netcoreapp3.1\TreadRepeat.AssemblyInfo.cs
+D:\Interview2020\TreadRepeat\TreadRepeat\obj\Debug\netcoreapp3.1\TreadRepeat.dll
+D:\Interview2020\TreadRepeat\TreadRepeat\obj\Debug\netcoreapp3.1\TreadRepeat.pdb
+D:\Interview2020\TreadRepeat\TreadRepeat\obj\Debug\netcoreapp3.1\TreadRepeat.genruntimeconfig.cache

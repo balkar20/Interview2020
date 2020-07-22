@@ -1,0 +1,12 @@
+D:\Interview2020\TreadRepeat\ManualResetEvent\bin\Debug\netcoreapp3.1\ManualResetEvent.exe
+D:\Interview2020\TreadRepeat\ManualResetEvent\bin\Debug\netcoreapp3.1\ManualResetEvent.deps.json
+D:\Interview2020\TreadRepeat\ManualResetEvent\bin\Debug\netcoreapp3.1\ManualResetEvent.runtimeconfig.json
+D:\Interview2020\TreadRepeat\ManualResetEvent\bin\Debug\netcoreapp3.1\ManualResetEvent.runtimeconfig.dev.json
+D:\Interview2020\TreadRepeat\ManualResetEvent\bin\Debug\netcoreapp3.1\ManualResetEvent.dll
+D:\Interview2020\TreadRepeat\ManualResetEvent\bin\Debug\netcoreapp3.1\ManualResetEvent.pdb
+D:\Interview2020\TreadRepeat\ManualResetEvent\obj\Debug\netcoreapp3.1\ManualResetEvent.csproj.CoreCompileInputs.cache
+D:\Interview2020\TreadRepeat\ManualResetEvent\obj\Debug\netcoreapp3.1\ManualResetEvent.AssemblyInfoInputs.cache
+D:\Interview2020\TreadRepeat\ManualResetEvent\obj\Debug\netcoreapp3.1\ManualResetEvent.AssemblyInfo.cs
+D:\Interview2020\TreadRepeat\ManualResetEvent\obj\Debug\netcoreapp3.1\ManualResetEvent.dll
+D:\Interview2020\TreadRepeat\ManualResetEvent\obj\Debug\netcoreapp3.1\ManualResetEvent.pdb
+D:\Interview2020\TreadRepeat\ManualResetEvent\obj\Debug\netcoreapp3.1\ManualResetEvent.genruntimeconfig.cache
