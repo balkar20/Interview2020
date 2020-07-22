@@ -1,0 +1,13 @@
+D:\Interview2020\LyambdaTree\LyambdaTree\bin\Debug\netcoreapp3.1\LyambdaTree.exe
+D:\Interview2020\LyambdaTree\LyambdaTree\bin\Debug\netcoreapp3.1\LyambdaTree.deps.json
+D:\Interview2020\LyambdaTree\LyambdaTree\bin\Debug\netcoreapp3.1\LyambdaTree.runtimeconfig.json
+D:\Interview2020\LyambdaTree\LyambdaTree\bin\Debug\netcoreapp3.1\LyambdaTree.runtimeconfig.dev.json
+D:\Interview2020\LyambdaTree\LyambdaTree\bin\Debug\netcoreapp3.1\LyambdaTree.dll
+D:\Interview2020\LyambdaTree\LyambdaTree\bin\Debug\netcoreapp3.1\LyambdaTree.pdb
+D:\Interview2020\LyambdaTree\LyambdaTree\obj\Debug\netcoreapp3.1\LyambdaTree.csprojAssemblyReference.cache
+D:\Interview2020\LyambdaTree\LyambdaTree\obj\Debug\netcoreapp3.1\LyambdaTree.csproj.CoreCompileInputs.cache
+D:\Interview2020\LyambdaTree\LyambdaTree\obj\Debug\netcoreapp3.1\LyambdaTree.AssemblyInfoInputs.cache
+D:\Interview2020\LyambdaTree\LyambdaTree\obj\Debug\netcoreapp3.1\LyambdaTree.AssemblyInfo.cs
+D:\Interview2020\LyambdaTree\LyambdaTree\obj\Debug\netcoreapp3.1\LyambdaTree.dll
+D:\Interview2020\LyambdaTree\LyambdaTree\obj\Debug\netcoreapp3.1\LyambdaTree.pdb
+D:\Interview2020\LyambdaTree\LyambdaTree\obj\Debug\netcoreapp3.1\LyambdaTree.genruntimeconfig.cache
