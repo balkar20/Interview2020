@@ -1,0 +1,69 @@
+sum^^^^^^^^^^^^^^^
+ 
+	sudo apt-get update
+	sudo apt-get install apt-transport-https
+	sudo apt-get update
+	sudo apt-get install dotnet-sdk-3.1
+
+Optional:
+	sudo apt-get install dotnet-runtime-3.1
+	sudo apt-get install aspnetcore-runtime-3.1
+
+
+	wget -q https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
+	sudo dpkg -i packages-microsoft-prod.deb
+
+Then we copy or create our app via "dotnet new" command  to dev/myWebApp
+
+Publish:
+	cd dev
+	cd myWebApp
+	dotnet publish -c release -o /var/www/mywebapp
+
+
+Nginx:
+	sudo apt-get install nginx
+	sudo service nginx start
+
+sudo nano /etc/nginx/sites-available/default
+
+			proxy_pass http://localhost:5000;
+			proxy_http_version 1.1;
+			proxy_set_header Upgrade $http_upgrade;
+			proxy_set_header Connection keep-alive;
+			proxy_set_header Host $host;
+			proxy_cache_bypass $http_upgrade;
+			proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+			proxy_set_header X-Forwarded-Proto $scheme;
+
+sudo nano etc/systemd//system/mywebapp.service
+
+			[Unit]
+			Description=MyDotnetcore Web App
+
+			[Service]
+			WorkingDirectory=/var/www/mywebapp
+			ExecStart=usr/bin/dotnet var/www/mywebapp/myWebApp.dll
+			Restart=always
+			RestartSec=10 # Restart service after 10 seconds if dotnet service crashes
+			SyslogIdentifier=myWebApp
+			Environment=ASPNETCORE_ENVIRONMENT=Production
+
+			[Install]
+			wantedBy=multi-user.target
+			
+Start nginx service:
+
+	sudo systemctl enable mywebapp.service
+	sudo systemctl start mywebapp.service
+	sudo systemctl status mywebapp.service
+
+Publish ^
+cd dev
+cd myWebApp
+dotnet publish -c release -o /var/www/mywebapp
+
+again:
+sudo systemctl enable mywebapp.service
+sudo systemctl start mywebapp.service
+sudo systemctl status mywebapp.service
